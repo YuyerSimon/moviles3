@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import java.util.Date;
 
 /**
- * Created by RICHARD on 25/08/2016.
+ * Modificado por simon
  */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Atencion {
